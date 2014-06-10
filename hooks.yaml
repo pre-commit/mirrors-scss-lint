@@ -1,0 +1,5 @@
+-   id: scss-lint
+    name: scss-lint
+    entry: scss-lint
+    language: ruby
+    files: \.scss$
