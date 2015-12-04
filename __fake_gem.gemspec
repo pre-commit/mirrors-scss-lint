@@ -4,5 +4,5 @@ Gem::Specification.new do |s|
     s.authors = ['Anthony Sottile']
     s.summary = 'A fake mirror gem for scss_lint'
     s.description = 'A fake mirror gem for scss_lint'
-    s.add_dependency 'scss_lint', '0.38.0'
+    s.add_dependency 'scss_lint', '0.39.0'
 end
