@@ -2,6 +2,6 @@
     name: scss_lint
     entry: scss-lint
     language: ruby
-    files: \.scss$
+    'types': [scss]
     args: []
-
+    additional_dependencies: []
